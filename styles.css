@@ -1,0 +1,61 @@
+.content{
+  display: flex;
+}
+.leftSide{
+  flex: 2;
+}
+.rightSide{
+  flex: 2;
+}
+#fakeMenu{
+  text-align: center;
+  color: white;
+  background-color: #123;
+  padding: 10px;
+  margin: 0px;
+  border-bottom: solid;
+  border-color: black;
+}
+#labelText{
+  font-size: 22px;
+}
+#dadJokeResults{
+  border: solid;
+  border-radius: 3%;
+}
+#changePicsSubmit{
+  font-size: 20px;
+}
+.mainContent{
+  text-align: center;
+  flex: 4;
+}
+.dateAndTime{
+  border: solid;
+  border-radius: 3%;
+  border-color: black;
+  background-color: #248;
+  color: white;
+  padding: 5px;
+}
+.daTime{
+  text-align: left;
+  border-bottom: solid;
+  border-color: black;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+.temperz{
+  text-align: left;
+  margin-top: 0px;
+  font-size: 22px;
+}
+.tempz{
+  text-align: left;
+  font-size: 22px;
+}
+body{
+  padding: 0px;
+  font-family: 'Fahkwang', sans-serif;
+  margin: 0px;
+}
